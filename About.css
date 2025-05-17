@@ -145,13 +145,13 @@ hr{
 .footer4 ul li a:hover {
     color: #ffffff;
 }
-@media(max-width:768px){
+@media(max-width:800px){
     body{
         width: 100%;
         /* overflow-x: hidden; */
     }
-    .header2{
-        visibility: hidden;
+    #header .header2{
+        display:none
         
     }
     
