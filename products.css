@@ -257,7 +257,7 @@ hr{
     color: #ffffff;
 }
 
-@media(max-width:768px){
+@media(max-width:800px){
     body{
         width: 100%;
         overflow-x: hidden;
@@ -281,11 +281,11 @@ hr{
         display: flex;
     }
     #container{
-        width: 90vw;
+        width: 80vw;
         
     }
     #result2{
-        margin-left: 40px;
+        margin-left: 50px;
     }
     #product .product1{
         font-size: 12px;
@@ -300,7 +300,7 @@ hr{
         font-size: 13px;
     }
     #prod-image{
-        width: 80vw;
+        width: 73vw;
         height: 50vh;
     }
     footer{
