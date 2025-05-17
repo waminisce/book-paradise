@@ -200,8 +200,8 @@ hr{
         width: 100%;
         overflow-x: hidden;
     }
-    .header2{
-        visibility: hidden;
+    #header .header2{
+        display:none;
         
     }
     
@@ -226,10 +226,10 @@ hr{
        padding-left: 30px;
     }
     .main1{
-        width: 90vw;
+        width: 80vw;
     }
     .main2{
-        font-size: 30px;
+        font-size: 25px;
         font-weight: 600;
     }
     .main3{
