@@ -179,7 +179,7 @@ hr{
     margin-right: 180px;
 }
 
-@media(max-width:768px){
+@media(max-width:800px){
     body{
         width: 100%;
         overflow-x: hidden;
